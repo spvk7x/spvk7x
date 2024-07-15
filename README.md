@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1259914587512373329/1262494721457127474/efff3fd402ac21a68cf05a354acbed8e.jpg?ex=6696cd55&is=66957bd5&hm=1cf6859fbbb4121561ca83f5c03cb412e0d8e1cf2c2b46bb55c2a07fa16336f4&=&format=webp&width=411&height=411" alt="logo" width="100" height="100"/>
+  <img src="https://media.discordapp.net/attachments/1259914587512373329/1262494721457127474/efff3fd402ac21a68cf05a354acbed8e.jpg?ex=6696cd55&is=66957bd5&hm=1cf6859fbbb4121561ca83f5c03cb412e0d8e1cf2c2b46bb55c2a07fa16336f4&=&format=webp&width=411&height=411" alt="logo" width="150" height="150"/>
   <h1>7w7</h1>
 </div>
 
@@ -17,10 +17,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spvk7x&style=flat-square" alt="profile views" /></p>
 
-##  About Me
-owner @nanah
+<h2>About Me</h2>
 
-##  Languages 
+<p>owner @nanah</p>
+
+<h2>Languages</h2>
+
 <p align="">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
@@ -30,3 +32,4 @@ owner @nanah
   <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" />
   <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" />
 </p>
+
