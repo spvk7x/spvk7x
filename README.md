@@ -24,12 +24,18 @@
 <h2>Languages</h2>
 
 <p align="">
+  <img src="https://img.icons8.com/color/48/000000/perl.png" alt="Perl" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="Express.js" />
+  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" />
+  <img src="https://img.icons8.com/color/48/000000/rust.png" alt="Rust" />
   <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" />
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="Php" />
+  <img src="https://img.icons8.com/color/48/000000/go.png" alt="Go" />
 </p>
-
