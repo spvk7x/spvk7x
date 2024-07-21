@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/175503310?v=4" alt="logo" width="150" height="150"/>
-  <h1>7w7</h1>
+  <h1>Spunth</h1>
 </div>
 
 <p align="center">
